@@ -1,6 +1,8 @@
 package org.example;
 import java.util.ArrayList;
-
+/*
+ * 6510450429 Thanatus Suwan
+ * */
 public class Flock implements Quackable{
     ArrayList<Quackable> quackers = new ArrayList<>();
 

@@ -1,5 +1,7 @@
 package org.example;
-
+/*
+ * 6510450429 Thanatus Suwan
+ * */
 public class CountingDuckFactory extends AbstractDuckFactory {
     public Quackable createMallardDuck() {
         return new QuackCounter(new MallardDuck());

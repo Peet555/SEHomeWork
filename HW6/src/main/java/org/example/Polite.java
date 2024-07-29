@@ -1,5 +1,7 @@
 package org.example;
-
+/*
+ * 6510450429 Thanatus Suwan
+ * */
 public class Polite implements Quackable {
     Quackable duck;
     private static int numberOfPolite;

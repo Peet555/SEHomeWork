@@ -1,5 +1,7 @@
 package org.example;
-
+/*
+ * 6510450429 Thanatus Suwan
+ * */
 public class DuckSimulator {
     public static void main(String[] args) {
         DuckSimulator simulator = new DuckSimulator();
